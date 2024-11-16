@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'A frontend site for Apple products showcasing a sleek and modern design.',
     subdesc:
       'Built as an only frontend app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, this site is designed for better visual effects and better user interactions.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+    href: 'https://apple-site-flame.vercel.app/',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -97,7 +97,7 @@ export const myProjects = [
   {
     title: 'Weather Monitoring - Real-Time weather app',
     desc: 'This is a powerful collaborative app that elevates the capabilities of real-time weather monitoring. It supports millions of cities simultaneously, ensuring that every change is captured instantly and accurately.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+    href: 'https://weather-monitoring-five.vercel.app/',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
